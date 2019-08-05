@@ -1,4 +1,4 @@
-# Introducing $\texttt{bumpsetscrapR}$
+# Introducing \texttt{bumpsetscrapR}
 
 The $\texttt{bumpsetspike}$ repository (https://github.com/kaylafrisoli/bumpsetspike) contains the following folders: 
 
