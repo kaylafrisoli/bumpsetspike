@@ -1,0 +1,41 @@
+---
+title: "bumpsetscrapR: an R package for scraping NCAA volleyball data"
+date: '`r format(Sys.time(), "%B %d, %Y")`'
+output:
+  pdf_document:
+    fig_caption: yes
+    keep_tex: no
+    number_sections: yes
+header-includes:
+  - \usepackage{hyperref}
+bibliography: master.bib
+---
+
+
+Abstract
+===============================================================================
+ 
+The goal of the $\texttt{R}$ package $\texttt{bumpsetscrapR}$ is to allow $\texttt{R}$ users and volleyball fans to easily interact with NCAA volleyball data. Currently this data is embedded within http://stats.ncaa.org/ and is difficult to access, pull, and analyze. This package will allow users to study both male and female volleyball players and teams across time. Additionally, we introduce a $\texttt{R Shiny}$ graphical user interface (GUI) so that users can easily summarize and visualize the scraped data. The GUI allows the programming novice to benefit from the data without having to learn the programming language $\texttt{R}$. This package and $\texttt{R Shiny}$ application open up many opportunities for those interested in studying NCAA college volleyball. 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(warning=FALSE)
+knitr::opts_chunk$set(message = FALSE)
+
+library(dplyr)
+library(ggplot2)
+
+## To change into library(courtsports)
+devtools::load_all("../bumpsetscrapR")
+```
+
+
+
+# Introducing $\texttt{bumpsetscrapR}$
+
+
+
+
+# References {#sec:refs}
+
+\footnotesize
