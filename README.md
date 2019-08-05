@@ -1,9 +1,9 @@
-# Introducing \texttt{bumpsetscrapR}
+# Introducing `bumpsetscrapR`
 
-The $\texttt{bumpsetspike}$ repository (https://github.com/kaylafrisoli/bumpsetspike) contains the following folders: 
+The `bumpsetspike` repository (https://github.com/kaylafrisoli/bumpsetspike) contains the following folders: 
 
-* $\texttt{bumpsetscrapR/}$ - an R package for scraping NCAA volleyball data
-* $\texttt{paper/}$ - a paper describing the package, which will be submitted to the 2019 CMSAC Reproducible Research Competition (http://www.stat.cmu.edu/cmsac/)
+* `bumpsetscrapR/` - an R package for scraping NCAA volleyball data
+* `paper/` - a paper describing the package, which will be submitted to the 2019 CMSAC Reproducible Research Competition (http://www.stat.cmu.edu/cmsac/)
 
 ## Package installation
 
