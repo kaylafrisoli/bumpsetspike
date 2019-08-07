@@ -15,7 +15,7 @@ bibliography: master.bib
 Abstract
 ===============================================================================
  
-The goal of the $\texttt{R}$ package $\texttt{bumpsetscrapR}$ is to allow $\texttt{R}$ users and volleyball fans to easily interact with NCAA volleyball data. Currently this data is embedded within http://stats.ncaa.org/ and is difficult to access, pull, and analyze. This package will allow users to study both male and female volleyball players and teams across time. Additionally, we introduce a $\texttt{R Shiny}$ graphical user interface (GUI) so that users can easily summarize and visualize the scraped data. The GUI allows the programming novice to benefit from the data without having to learn the programming language $\texttt{R}$. This package and $\texttt{R Shiny}$ application open up many opportunities for those interested in studying NCAA college volleyball. 
+The goal of the $\texttt{R}$ package $\texttt{bumpsetscrapR}$ is to allow $\texttt{R}$ users and volleyball fans to easily interact with NCAA volleyball data. Currently this data is embedded within http://stats.ncaa.org and is difficult to access, pull, and analyze. Other online data sources are propriatary or out of scope (US college volleyball). This package will allow users to study both male and female volleyball players and teams across time. Additionally, we introduce a $\texttt{R Shiny}$ graphical user interface (GUI) so that users can easily summarize and visualize the scraped data. The GUI allows the programming novice to benefit from the data without having to learn the programming language $\texttt{R}$. This package and $\texttt{R Shiny}$ application open up many opportunities for those interested in studying NCAA college volleyball. 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -31,11 +31,11 @@ devtools::load_all("../bumpsetscrapR")
 
 
 
-# Introducing $\texttt{bumpsetscrapR}$
+<!-- # Introducing $\texttt{bumpsetscrapR}$ -->
 
 
 
 
-# References {#sec:refs}
+<!-- # References {#sec:refs} -->
 
 \footnotesize
